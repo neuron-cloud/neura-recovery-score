@@ -51,7 +51,7 @@ Never share your actual API key publicly.
 ## 📬 Contact
 
 Built by **Dr. Mychael Delgardo**  
-Email: mwdelgardo@gmail.com  
+Email: mwdelgardo@gmail.com 
 Demo inquiries, feedback, or pilot partnerships welcome.
 
 ---
